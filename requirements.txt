@@ -19,7 +19,7 @@ peewee==3.13.1
 pluggy==0.13.1
 protobuf==3.6.1
 psycopg2-binary==2.8.4
-py==1.8.1
+py==1.10.0
 pydateinfer==0.3.0
 pyparsing==2.4.6
 pysqlite3==0.4.2
